@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Deepkoi</title>
+    <link>https://aslandev2k.github.io/deepkoi-home/appcast.xml</link>
+    <description>Updates for Deepkoi, a focus tracker for the Mac.</description>
+    <language>en</language>
+    <!-- newest first -->
+  </channel>
+</rss>
