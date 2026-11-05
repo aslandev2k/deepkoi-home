@@ -6,5 +6,14 @@
     <description>Updates for Deepkoi, a focus tracker for the Mac.</description>
     <language>en</language>
     <!-- newest first -->
+    <item>
+      <title>Deepkoi 1.1.0</title>
+      <pubDate>Thu, 05 Nov 2026 22:07:30 +0000</pubDate>
+      <sparkle:version>202611060507</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://aslandev2k.github.io/deepkoi-home/notes/1.1.0.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/aslandev2k/deepkoi-home/releases/download/v1.1.0/Deepkoi-1.1.0.dmg" type="application/octet-stream" sparkle:edSignature="m470d9InSbGVA8Pk75r3Hsj6KCOJNnHQ2I8bEAuxiuHMPgJOTQFd2dcxrdXp02CyqLHEWoWi7DI2IX0iQV8bDw==" length="15261604"/>
+    </item>
   </channel>
 </rss>
