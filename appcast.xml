@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- newest first -->
     <item>
+      <title>Deepkoi 1.3.1</title>
+      <pubDate>Sun, 22 Nov 2026 09:37:44 +0000</pubDate>
+      <sparkle:version>202611221637</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://aslandev2k.github.io/deepkoi-home/notes/1.3.1.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/aslandev2k/deepkoi-home/releases/download/v1.3.1/Deepkoi-1.3.1.dmg" type="application/octet-stream" sparkle:edSignature="TMxbhcSJ16tfI3nD0CBxTkZjPvqXSSV73VFHmjjdI6KBTor02AXKqyPtiR2kR1Y6FP4/+DyZVrCLbTDTcoYZAQ==" length="16722823"/>
+    </item>
+    <item>
       <title>Deepkoi 1.3.0</title>
       <pubDate>Mon, 16 Nov 2026 12:52:05 +0000</pubDate>
       <sparkle:version>202611161951</sparkle:version>
